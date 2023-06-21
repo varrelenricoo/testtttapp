@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F93362A62A42E3BE008418E2 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F93362A52A42E3BE008418E2 /* OnboardingView.swift */; };
 		F9B7EA152A42DD2E009331BC /* testtttappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B7EA142A42DD2E009331BC /* testtttappApp.swift */; };
 		F9B7EA172A42DD2E009331BC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B7EA162A42DD2E009331BC /* ContentView.swift */; };
 		F9B7EA192A42DD2F009331BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9B7EA182A42DD2F009331BC /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F93362A52A42E3BE008418E2 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		F9B7EA112A42DD2E009331BC /* testtttapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testtttapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9B7EA142A42DD2E009331BC /* testtttappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testtttappApp.swift; sourceTree = "<group>"; };
 		F9B7EA162A42DD2E009331BC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				F9B7EA1B2A42DD2F009331BC /* Preview Assets.xcassets */,
+				F93362A52A42E3BE008418E2 /* OnboardingView.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F93362A62A42E3BE008418E2 /* OnboardingView.swift in Sources */,
 				F9B7EA172A42DD2E009331BC /* ContentView.swift in Sources */,
 				F9B7EA152A42DD2E009331BC /* testtttappApp.swift in Sources */,
 			);
