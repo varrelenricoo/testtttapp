@@ -11,10 +11,12 @@ struct ContentView: View {
     var body: some View {
         List {
             VStack {
-                Image(systemName: "globe")
+                Image("logorestockapp")
+                    .resizable()
+                    .scaledToFill()
                     .imageScale(.large)
                     .foregroundColor(.accentColor)
-                Text("Hello, haihaihai!")
+                Text("RestockApp")
             };VStack {
                 Image(systemName: "globe")
                     .imageScale(.large)
